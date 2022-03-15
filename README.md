@@ -8,7 +8,7 @@
 
 * HTML
 * CSS, Bootstrap
-* Javascript 
+* JavaScript 
 
 ## Built in function
 
